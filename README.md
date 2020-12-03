@@ -9,14 +9,14 @@
 ## Results
 # Univariate:
 ### gave accuracy of 89%
-![uniresult](uni.png)
+![uniresult](u.png)
 
 
 
 
 # Multivariate:
 ### gave accuracy of 85.3%
-![multiresult](multi.png)
+![multiresult](m.png)
 
 
 
